@@ -1,0 +1,78 @@
+#contacts iframe
+{
+    width: 100%;
+}
+
+.picture{
+    border-style:ridge;
+    border-color:chocolate;
+    border-width: 19.99999999px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.picture img{
+    width: 100%;
+    padding:20px;
+}
+
+.picture p{
+    margin: 20px;
+}
+
+.movie_text{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.movie_text i{
+    float: right;
+}
+
+.movie_info span{
+    color: gold;
+    font-size: 25px;
+    margin-left: 3px;
+}
+
+.movie_info h5{
+    font-size: 18px;
+}
+
+.movie_info1 span{
+    color: grey;
+    font-size: 25px;
+    margin-left: 3px;
+}
+
+.movie_info1 h5{
+    font-size: 18px;
+}
+
+.movie_info1 img{
+    width: 100%;
+}
+
+.book{
+    margin-bottom: 20px;
+  
+}
+
+.book img{
+    margin-bottom: 10px;
+    border-style: ridge;
+    border-color: gray;
+    border-width: 3px;
+    box-shadow: 10px 10px rgba(69, 69, 69, 0.654);
+    border-radius: 20px;
+}
+
+.book2 a{
+    margin-left: 165px;
+    
+}
+
+.book1 a{
+   margin-left: 125px;
+}
